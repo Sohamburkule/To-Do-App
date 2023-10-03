@@ -7,9 +7,6 @@
 <meta charset="ISO-8859-1">
 <title>TodoForm</title>
 <style type="text/css">
- 
-
- 
 </style>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>

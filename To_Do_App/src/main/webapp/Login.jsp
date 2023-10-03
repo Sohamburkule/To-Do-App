@@ -4,13 +4,14 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login Page</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <style type="text/css">
 
 body{
    background-color: #cccccc;
 }
+
 /* This is for login box */
 * {box-sizing: border-box}
 input,
