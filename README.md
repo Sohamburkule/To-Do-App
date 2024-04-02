@@ -28,11 +28,7 @@ Welcome to the To-Do App, a simple web application developed using plain Java Se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sohamburkule/To-Do-App/![Screenshot 2024-04-02 182113](https://github.com/Sohamburkule/To-Do-App/assets/141569601/b613343e-5a9f-4fa0-9e7c-85938cac913e)
-![Screenshot 2024-04-02 182014](https://github.com/Sohamburkule/To-Do-App/assets/141569601/949b3cfb-6521-4ad0-89da-ca3f67ffbbd5)
-![Screenshot 2024-04-02 181923](https://github.com/Sohamburkule/To-Do-App/assets/141569601/c902d41a-fb3c-4d8b-912c-5579c7956d56)
-![Screenshot 2024-04-02 181855](https://github.com/Sohamburkule/To-Do-App/assets/141569601/e9a8a504-9eac-4d86-9333-8e6bc694b517)
-
+git clone https://github.com/Sohamburkule/To-Do-App/
 ```
 
 2. Import the project into your preferred IDE (Eclipse, IntelliJ IDEA, etc.).
