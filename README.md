@@ -49,10 +49,6 @@ git clone https://github.com/Sohamburkule/To-Do-App/
 
 - [Soham Burkule](https://github.com/Sohamburkule)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to the Java community for their invaluable resources and support.
